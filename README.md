@@ -23,4 +23,6 @@ To run this project locally:
    npm start
 
 ## Why Run Locally?
-This application fetches data from NewsAPI, which has restrictions on requests from servers on the free plan. To use this application, it's recommended to run it locally on your machine. NewsAPI allows requests only from localhost, which means hosting this app on a live server might not work due to the restrictions imposed by NewsAPI's free plan. 
+This application fetches data from NewsAPI, which has restrictions on requests from servers on the free plan. To use this application, it's recommended to run it locally on your machine. NewsAPI allows requests only from localhost, which means hosting this app on a live server might not work due to the restrictions imposed by NewsAPI's free plan.
+![Screenshot 2023-12-27 035331](https://github.com/DMSdivyamanas/Dotflo_news/assets/98876605/676ec558-bdd7-468f-82c5-441190c63af2)
+![Screenshot 2023-12-27 035416](https://github.com/DMSdivyamanas/Dotflo_news/assets/98876605/42dc24ee-738b-4858-a9d4-da555203b37c)
